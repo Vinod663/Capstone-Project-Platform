@@ -1,0 +1,9 @@
+[submodule "config-server"]
+	path = config-server
+	url = https://github.com/Vinod663/Capstone-Config-Server.git
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/Vinod663/Capstone-API-Gateway.git
+[submodule "service-registry"]
+	path = service-registry
+	url = https://github.com/Vinod663/Capstone-Service-Registry.git
