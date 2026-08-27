@@ -1,4 +1,4 @@
-# Capstone Project - Project Platform
+# Capstone Project - Platform
 
 * **Student Name:** Vinod Niloshana Fernando
 * **Student Number:** 241711104
